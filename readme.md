@@ -2,7 +2,7 @@
 
 Brought to you by www.TinkurLab.com
 
-See [License](LICENSE).
+See [License](license.md).
 
 ## Overview
 
