@@ -10,4 +10,4 @@ Tinkur Bootdryer is a project to instrument a bootdryer with a humidity sensor s
 
 ## Lab Notebook
 
-See the [Lab Notebook](labnotebook.md) for notes from experiments and changes to the project.
+See the [Lab Notebook](/labnotebook/) for notes from experiments and changes to the project.
