@@ -24,7 +24,9 @@ Initial humidity instrumentation test and baselines:
 * started bootdryer again at 5:43pm to check humidity with fan running - is 34%
 * stopped bootdryer at 5:44pm to check humidity of room - is 30% 3 ft from shoes, 33% 1 ft from shoes
 
-See [dataset](dateset_20160228_humidity.csv)
+See [dataset](20160228_humiditydataset.csv) and [graph](20160228_humiditygraph.png).
+
+![Humidity Graph](20160228_humiditygraph.png)
 
 Remaining Questions?
 * object (no humidity) w/ fan blowing it it ?
